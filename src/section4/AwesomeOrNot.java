@@ -9,7 +9,7 @@ public static void main(String[] args) {
 	
 }
 		
-	}
+	
 
 	// 2. Make a variable that will hold a random number and put a random number into this variable using "new Random().nextInt(4)"
 
